@@ -12,7 +12,7 @@ Data is provided in csv format.
 * To view, click on the hyperlink for the file
 * To download to your machine, ctrl + click and select "Save Link As..."
 
-## Data available:
+## Data available
 
 * acs_17_5yr_lowincpop_ca_county: county-level estimates for the population below 125% of the Federal Poverty Level
 
