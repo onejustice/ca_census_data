@@ -10,7 +10,7 @@ To download any file locally, simply right click on the link.
 
 * ACS_17_5YR_POP_BELOW_FPL_125_CA_COUNTY.csv: county-level estimates for the population below 125% of the Federal Poverty Level
 
-## Acknowledgement for R packages used
+## R package acknowledgements 
 
 tidycensus, Kyle Walker (2019)
 tidyverse, Hadley Wickham (2017)
