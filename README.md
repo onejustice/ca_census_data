@@ -6,11 +6,11 @@ Data is obtained from U.S. Census Bureau, 2017 American Community Survey 5-Year 
 
 To download any file locally, simply right click on the link. 
 
-# Data available: 
+## Data available: 
 
 * ACS_17_5YR_POP_BELOW_FPL_125_CA_COUNTY.csv: county-level estimates for the population below 125% of the Federal Poverty Level
 
-# Acknowledgement for R packages used
+## Acknowledgement for R packages used
 
 tidycensus, Kyle Walker (2019)
 tidyverse, Hadley Wickham (2017)
