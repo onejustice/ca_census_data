@@ -12,6 +12,6 @@ To download any file locally, simply right click on the link.
 
 ## R package acknowledgements 
 
-tidycensus, Kyle Walker (2019)
-tidyverse, Hadley Wickham (2017)
+tidycensus, Kyle Walker (2019) 
+tidyverse, Hadley Wickham (2017) 
 readr, Hadley Wickham, Jim Hester and Romain Francois (2017)
