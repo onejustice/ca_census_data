@@ -4,7 +4,12 @@ A repository of California Census data relevant to legal aid programs.
 
 Data is obtained from U.S. Census Bureau, 2017 American Community Survey 5-Year Estimates, using the R package "tidycensus". 
 
-To download any file locally, simply right click on the link. 
+## Viewing and downloading data
+
+Data is provided in csv format. 
+
+* To view, click on the hyperlink for the file
+* To download to your machine, right click (Windows)
 
 ## Data available: 
 
